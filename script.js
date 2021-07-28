@@ -1,4 +1,4 @@
-const sounds = ['Applause', 'Boo', 'Yay', 'Tada' ,'Victory', 'Wrong', 'Alarm', 'Woof','Laugh','Sneeze', 'Orchestra', 'Trumpets','Yawn', 'Crunch', 'Mystery', 'WarHorn']
+const sounds = ['Applause', 'Boo', 'Yay', 'Tada' ,'Victory', 'Wrong', 'Alarm','BuDumTss', 'Woof','Laugh','TskTsk','Sneeze', 'Orchestra', 'Trumpets','Yawn', 'Crunch', 'Mystery', 'WarHorn', 'Thunder', 'Horror']
 
 
 sounds.forEach(sound=>{

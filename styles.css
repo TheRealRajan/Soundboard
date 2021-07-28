@@ -41,7 +41,7 @@ body {
   flex-direction: column;
 }
 .btn {
-  background-color: rgb(245, 51, 132);
+  background: linear-gradient(90deg, rgb(245, 51, 132), rgb(194, 65, 211));
   border-radius: 500px;
   border: none;
   color: #f1f1f1;
