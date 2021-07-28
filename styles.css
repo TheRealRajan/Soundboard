@@ -34,7 +34,7 @@ body {
   justify-content: center;
   text-align: center;
   height: 100vh;
-  margin: auto 1.5rem;
+  margin: auto auto;
 }
 .container {
   display: flex;
